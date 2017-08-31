@@ -16,5 +16,9 @@ new 2
 new 4
 new 5
 >>>>>>> 4f6070281443ceea9c295a68c9f65a1998c6eadc
+<<<<<<< HEAD
 
 new 3
+=======
+new 1
+>>>>>>> 6bdaf7998385e74abe26902a28a22f758a8a0220
