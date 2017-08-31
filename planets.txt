@@ -7,8 +7,6 @@ change 6
 change 7
 chagne 8
 new 1
-<<<<<<< HEAD
 new 3
-=======
-new 2
->>>>>>> 155cbaa1d60f000be53f6a32ac2d565905978ba9
+new 5
+new 10
